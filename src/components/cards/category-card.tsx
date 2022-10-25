@@ -1,9 +1,17 @@
+import { Box } from '@chakra-ui/react'
 import React from 'react'
-type Props = {}
+
+type Props = {
+  url?: string;
+  label?: string;
+
+}
 
 const CategoryCard = (props: Props) => {
   return (
-    <div>CategoryCard</div>
+    <Box>
+
+    </Box>
   )
 }
 

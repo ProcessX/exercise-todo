@@ -1,0 +1,17 @@
+{
+  "categories": [
+    {
+      "label": "Ménage",
+      "id": "c_1"
+    },
+    {
+      "label": "École",
+      "id": "c_2"
+    },
+    {
+      "label": "Boulot",
+      "id": "c_3"
+    }
+  ],
+  "tasks": []
+}
